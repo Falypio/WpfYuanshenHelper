@@ -9,3 +9,4 @@
 - 通过浏览器登录米哈游论坛 https://bbs.mihoyo.com/ys/
 - 按```F12```，打开```开发者工具 -> Network``` 点击进入
 - 刷新网页，找到以下的位置,复制Cookie后放在记事本或其它可以保存的地方
+- ![image](/WpfYuanshenHelper/5555.png)
